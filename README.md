@@ -1,4 +1,5 @@
-![Blue Modern Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/5e75f6b1-dc64-41c1-bce2-a15089cb1197)
+![Blue Modern Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/fc4054ce-64d1-459d-b2e0-846f3c9adfde)
+
 
 ## Hi there, Im Jairo Eduardo Castelblanco!👋
 
