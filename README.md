@@ -3,10 +3,7 @@
 
 ## Hi there, Im Jairo Eduardo Castelblanco!👋
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairoeduardocastelblanco/)
-
-</a>
-  <a href="[https://github.com/Hectorcidps/Portfolio_DA](https://github.com/Jeduardocastel?tab=repositories)" target="_blank" style="margin: 0 20px;">
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairoeduardocastelblanco/) </a>  <a href="[https://github.com/Hectorcidps/Portfolio_DA](https://github.com/Jeduardocastel?tab=repositories)" target="_blank" style="margin: 0 20px;">
     <img decoding="async" 
          src="https://img.shields.io/badge/Repositorio%20de%20Proyectos-GitHub-blue?style=for-the-badge" 
          alt="GitHub Portfolio Badge" />
