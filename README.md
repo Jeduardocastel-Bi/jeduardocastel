@@ -1,7 +1,12 @@
 ![2](https://github.com/user-attachments/assets/7cbff876-1c6b-4e11-ab31-38fc64f6350a)
 
+<div align="center"> 
+  <h1>
+    Hi there, Im Jairo Eduardo Castelblanco!
+    <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-## Hi there, Im Jairo Eduardo Castelblanco!👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairoeduardocastelblanco/) </a>  <a href="[https://github.com/Hectorcidps/Portfolio_DA](https://github.com/Jeduardocastel?tab=repositories)" target="_blank" style="margin: 0 20px;">
     <img decoding="async" 
