@@ -38,7 +38,7 @@ I am a Business Intelligence and Data Analyst with a Bachelor's Degree in Busine
 </div>
 <br>
 
-### 🧠 Soft Skills
+### 🧠  Skills
 
 🔍 Critical thinking
 ⏳ Time Management
