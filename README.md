@@ -19,7 +19,7 @@
 I am a Business Intelligence and Data Analyst with a Bachelor's Degree in Business Management. My experience as a Sales Executive, combined with roles in marketing, logistics, and customer service, allowed me to discover the power of data to drive strategic decisions. My goal is to help businesses, Sales and Marketing teams optimize processes, design more effective strategies, and make data-driven decisions.
 
 
-- 🔭 I’m currently completing a Data Analytics Bootcamp.
+- 🔭 I finished a Data Analytics Bootcamp.
 - 🌱 I’m Currently honing my skills in Power Bi and SQL.
 - 📊 Passionate about creating data-driven solutions and developing insightful dashboards.
 - 🎯 I’m looking for a Business Intelligence or Data Analyst role to leverage my skills in a professional setting..
